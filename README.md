@@ -16,4 +16,4 @@ We explore AI solutions for translating design mockups into functional code, aim
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/design-to-code-experiments.git
+   [git clone https://github.com/yourusername/design-to-code-experiments.git]
