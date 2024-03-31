@@ -1,5 +1,19 @@
-# Design to Code experiments
+# Design to Code Experiments
 
-This repo contains code generated as part of experiments for testing AI tools to generate code for a UI mock.
+This repository contains code generated from experiments testing AI tools for converting UI mockups into code.
 
+## Overview
 
+We explore AI solutions for translating design mockups into functional code, aiming to streamline development processes.
+
+## Contents
+
+- **Generated Code:** AI-generated code files.
+- **Experiment Results:** Results for the code
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/design-to-code-experiments.git
