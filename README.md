@@ -2,6 +2,10 @@
 
 This repository contains code generated from experiments testing AI tools for converting UI mockups into code.
 
+# UI mockup
+
+![UI mock up](https://ibb.co/LNSz24h)
+
 ## Overview
 
 We explore AI solutions for translating design mockups into functional code, aiming to streamline development processes.
