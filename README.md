@@ -4,7 +4,7 @@ This repository contains code generated from experiments testing AI tools for co
 
 # UI mockup
 
-![UI mock up](https://ibb.co/LNSz24h)
+![UI mock up](/mocks/image.png)
 
 ## Overview
 
